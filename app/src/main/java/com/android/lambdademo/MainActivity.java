@@ -5,7 +5,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
-
+/*Lambda的插件地址：https://github.com/evant/gradle-retrolambda*/
 public class MainActivity extends AppCompatActivity {
 
     @Override
